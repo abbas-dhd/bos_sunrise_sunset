@@ -42,7 +42,7 @@ vec3 sunsetLand = vec3(0.540,0.380,0.178);
 void main() {
     vec2 st = gl_FragCoord.xy/resolution.xy;
     
-    // --- sunset
+    // --- sunrise
     vec3 sunrise = mix(sunriseSky,sunriseSun, smoothstep(1., sin(time) * .5,st.y) - 
                        ( 
                            smoothstep(0.6,1.0,st.x) + smoothstep(0.55,0.000,st.x) 
