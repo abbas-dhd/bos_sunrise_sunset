@@ -4,7 +4,7 @@
 https://github.com/abbas-dhd/bos_sunrise_sunset/assets/68743779/96ffd6d0-7de3-4168-9dd6-09dfc8bf2a99
 
 
-This is a simple GLSL fragment shader that creates a smooth transition between gradients representing sunrise and sunset. The effect was inspired by JC Nesci’s implementation.
+This is a simple GLSL fragment shader that creates a smooth transition between gradients representing sunrise and sunset as a challenge on **Book of Shaders**. The effect was inspired by JC Nesci’s implementation.
 
 You can preview and interact with the shader using this [link](https://glslsandbox.com/e#106172.1).
 
